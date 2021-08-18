@@ -104,3 +104,4 @@ public class Calculator {
         System.out.println("\nMultiplication: " + nOne + " x " + nTwo + " = " + (nOne * nTwo));
     }
 }
+//https://github.com/AJAYPRAJAPATI29101998/Simplilearn/edit/master/Calculator.java
